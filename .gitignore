@@ -1,0 +1,10 @@
+# Local secrets and credentials
+*.pem
+*.key
+.env
+.env.*
+.aws/
+
+# Temporary files
+*.tmp
+*.log
